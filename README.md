@@ -9,6 +9,8 @@
 
 A simple plugin to use with napari
 
+Add some text.
+
 ----------------------------------
 
 This [napari] plugin was generated with [Cookiecutter] using [@napari]'s [cookiecutter-napari-plugin] template.
